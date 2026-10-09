@@ -1,4 +1,4 @@
-# Mixland landing page recreation
+# Mixland Landing Page Recreation
 
 Open `index.html` directly in a browser. The page uses plain HTML, CSS, and JavaScript; no build step is needed.
 
